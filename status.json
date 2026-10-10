@@ -1,6 +1,6 @@
 {
   "min_build": 0,
-  "blocked_builds": [143],
+  "blocked_builds": [140,141,142,143,144,145,146,147,148,149,150],
   "message": "This version has been paused.",
   "contact": "Message me on WhatsApp: +91…"
   "latest_build": 167,
