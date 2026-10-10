@@ -1,11 +1,11 @@
 {
   "min_build": 0,
-  "blocked_builds": [143],
-  "message": "hai",
-  "contact": "99999",
-  "latest_build": 120,
+  "blocked_builds": [],
+  "message": "",
+  "contact": "",
+  "latest_build": ,
   "latest_name": "",
-  "apk_url": "https://www.instagram.com",
-  "whats_new": ["rickrolled"],
+  "apk_url": "",
+  "whats_new": [""],
   "force_below": 0
 }
