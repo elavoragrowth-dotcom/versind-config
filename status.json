@@ -1,11 +1,11 @@
 {
   "min_build": 0,
-  "blocked_builds": [143],
-  "message": "fahh",
+  "blocked_builds": [],
+  "message": "",
   "contact": "",
-  "latest_build": 160,
-  "latest_name": "fff",
+  "latest_build": ,
+  "latest_name": "",
   "apk_url": "",
-  "whats_new": ["faa"],
+  "whats_new": [""],
   "force_below": 0
 }
