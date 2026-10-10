@@ -5,7 +5,7 @@
   "contact": "",
   "latest_build": 167,
   "latest_name": "Dash update",
-  "apk_url": "www.instagram.com",
-  "whats_new": [rickrolled],
+  "apk_url": "https://www.instagram.com",
+  "whats_new": ["rickrolled"],
   "force_below": 0
 }
