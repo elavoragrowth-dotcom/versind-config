@@ -1,10 +1,10 @@
 {
   "min_build": 0,
-  "blocked_builds": [140,141,142,143,144,145,146,147,148,149,150],
-  "message": "This version has been paused.",
-  "contact": "Message me on WhatsApp: +91…"
-  "latest_build": 167,
-  "latest_name": "Dash update",
+  "blocked_builds": [143],
+  "message": "hai",
+  "contact": "99999",
+  "latest_build": 120,
+  "latest_name": "",
   "apk_url": "https://www.instagram.com",
   "whats_new": ["rickrolled"],
   "force_below": 0
