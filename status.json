@@ -1,11 +1,11 @@
 {
   "min_build": 0,
-  "blocked_builds": [],
-  "message": "",
+  "blocked_builds": [143],
+  "message": "from a bijumon fan",
   "contact": "",
   "latest_build": 0,
-  "latest_name": "",
+  "latest_name": "fahh",
   "apk_url": "",
-  "whats_new": [],
+  "whats_new": ["nothing"],
   "force_below": 0
 }
